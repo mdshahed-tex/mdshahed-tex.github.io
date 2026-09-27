@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing academic research, shop-floor industrial experience, and technical leadership in Textile Engineering & Merchandising.
 
-🔗 **Live Website:** [https://mdshahed-tex.github.io/shahed-portfolio/](https://mdshahed-tex.github.io/shahed-portfolio/)
+🔗 **Live Website:** [https://mdshahed-tex.github.io/](https://mdshahed-tex.github.io/)
 
 ---
 
